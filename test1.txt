@@ -20,7 +20,7 @@
 
         <section>
             <h2>Serviços</h2>
-            <p>Oferecemos coaching online especializado para mulheres com foco em resultados sustentáveis.</p>
+            <p>Oferecemos coaching online especializado para mulheres com foco em resultados sustentáveis!</p>
         </section>
 
         <footer>
