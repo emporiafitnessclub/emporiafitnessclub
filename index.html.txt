@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emporia - Coaching Online</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Bem-vinda à Emporia</h1>
+        <p>Transforme o seu corpo e a sua mente com o nosso coaching online.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre nós</h2>
+            <p>Somos uma comunidade exclusiva para mulheres que buscam transformação e autoestima através de treino e alimentação personalizados.</p>
+        </section>
+
+        <section>
+            <h2>Serviços</h2>
+            <p>Oferecemos coaching online especializado para mulheres com foco em resultados sustentáveis.</p>
+        </section>
+
+        <footer>
+            <p>Entre em contato conosco via <a href="https://wa.me/seunumber">WhatsApp</a>.</p>
+        </footer>
+    </main>
+</body>
+</html>
