@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Bem-vinda à Emporia</h1>
-        <p>Transforme o seu corpo e a sua mente com o nosso coaching online.</p>
+        <p>Transforme o seu corpo e a sua mente com o nosso coaching online!</p>
     </header>
 
     <main>
